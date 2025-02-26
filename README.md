@@ -1,3 +1,9 @@
+## Account takeover
+
+```
+https://hackerone.com/reports/2293343
+```
+
 ## Web Cache Poisoning
 
 ```
